@@ -12,3 +12,5 @@ Format
   count: 1
 }
 ```
+#
+Current porcent of the total private keys: 0.00308%
