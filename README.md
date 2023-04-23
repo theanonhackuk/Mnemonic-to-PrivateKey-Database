@@ -1,4 +1,4 @@
-### ETH Private keys leak
+### ETH Private keys Database
 This is the repo of the json files from the ETH mnemonic to private key generator.
 # DISCLAMER
 I am not responsible of any bad use of this software/data or anything in this repo.
